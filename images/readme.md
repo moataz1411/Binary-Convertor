@@ -1,9 +1,9 @@
 - Binary Converter 
-A simple tool for converting text to binary code and binary code to text.
+A simple tool and Fast for converting text to binary code and binary code to text.
 
 I created this project to understand binary code practically and to make it easier for myself (and anyone who needs it) to experience conversion without relying on external websites or tools with annoying ads.
 
-Project Image
+- Project Image
 ![alt text](<Screenshot 2026-05-13 234005.png>)
 
 
